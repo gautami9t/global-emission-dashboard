@@ -1,5 +1,6 @@
 # global-emission-dashboard
 Interactive CO₂ emissions dashboard using Python and Power BI to visualize global fossil fuel trends (2002–2022)
+A PDF copy of the Power BI dashboard showcasing the final visual layout and insights is included for quick reference.
 
 ## 🚀 Motivation
 
